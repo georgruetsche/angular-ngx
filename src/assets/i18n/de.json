@@ -2,6 +2,7 @@
 	"demo": {
 		"greeting": "Hallo alter {{name}}!",
 		"text": "Eine einfache Demo mit ngx-translate",
-		"title": "Translation Demonstration"
+		"title": "Translation Demonstration",
+		"intro": "Das ist ein Intro"
 	}
 }
